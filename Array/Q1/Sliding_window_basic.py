@@ -19,3 +19,10 @@ for i in range(n - k + 1):
         
 #print all result
 print(" ".join(result))
+
+# Sample Input :
+# 7
+# 1 -2 -3 -4 5 6 -7
+# 3
+# Sample Output :
+# -2 -2 -3 -4 -7

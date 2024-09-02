@@ -5,10 +5,3 @@ First line contains an integer n denoting the size of the array. The next line c
 
 Output Description:
 Print the first negative integer in that window.If all the numbers are positive print 0
-
-Sample Input :
-7
-1 -2 -3 -4 5 6 -7
-3
-Sample Output :
--2 -2 -3 -4 -7
