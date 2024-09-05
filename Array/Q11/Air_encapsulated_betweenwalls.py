@@ -35,3 +35,12 @@ n = int(input())
 arr = list(map(int, input().split()))
 #print result
 print(calculate_air_encapsulated(arr))
+'''
+Sample Input :
+3
+7 4 9
+Sample Output :
+3
+
+
+'''
