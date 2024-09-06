@@ -17,3 +17,12 @@ arr = list(map(int, input().split()))  # Array of heights
 # Calculate the beautiful_array_sum
 result = beautiful_array_sum(arr, n)
 print(result)
+
+'''
+Sample Input :
+5
+5 25 35 -5 30
+Sample Output :
+1
+
+'''
