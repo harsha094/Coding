@@ -9,9 +9,9 @@ def find_first_one_pos(num):
     position = reversed_binary.find('1') + 1
 
     return position
-
+#Inputs
 n = int(input())
-
+#Print output 
 print(find_first_one_pos(n))
 
 '''
