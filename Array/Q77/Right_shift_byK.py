@@ -6,10 +6,11 @@ def right_shift_k_times(arr, K, N):
         return arr
     else:
         return arr[-K:] + arr[:-K]
-    
+#Inputs    
 N,K = map(int, input().split())
 arr = list(map(int, input().split()))
 res = right_shift_k_times(arr, K, N)
+# Print Output
 print(*res)
 
 '''
